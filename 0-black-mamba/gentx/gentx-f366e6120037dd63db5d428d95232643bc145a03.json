@@ -1,0 +1,9 @@
+{\rtf1\ansi\ansicpg1251\cocoartf2578
+\cocoatextscaling0\cocoaplatform0{\fonttbl\f0\fnil\fcharset0 HelveticaNeue;}
+{\colortbl;\red255\green255\blue255;}
+{\*\expandedcolortbl;;}
+\paperw11900\paperh16840\margl1440\margr1440\vieww17280\viewh13200\viewkind0
+\deftab560
+\pard\pardeftab560\slleading20\partightenfactor0
+
+\f0\fs26 \cf0 \{"type":"cosmos-sdk/StdTx","value":\{"msg":[\{"type":"cosmos-sdk/MsgCreateValidator","value":\{"description":\{"moniker":"doonder","identity":"","website":"","security_contact":"","details":""\},"commission":\{"rate":"0.100000000000000000","max_rate":"0.200000000000000000","max_change_rate":"0.010000000000000000"\},"min_self_delegation":"1","delegator_address":"front17hpfmh6u0vlg6dwr34h3xj00ewnf4nmvl8eyhx","validator_address":"frontvaloper17hpfmh6u0vlg6dwr34h3xj00ewnf4nmvtgt27k","pubkey":"frontvalconspub1zcjduepqku88zhl4aplrh8vjx44jljv4wx3t3yvmfhllu4g6n0esx9pjutys8gq93f","value":\{"denom":"front","amount":"1000000000000"\}\}\}],"fee":\{"amount":[],"gas":"200000"\},"signatures":[\{"pub_key":\{"type":"tendermint/PubKeySecp256k1","value":"A0jBkRNQgRSOoxunFeGmI6tlXx/jm3GYfED7HvjEotyF"\},"signature":"of3X2VQJZXglFrEvgIZZKKLgy5LjWmlfjIksDFACGw9Mcgjc3bm0djh5R+NEmb38HCFXYg6Sx2tVCCcFsj0m/g=="\}],"memo":"f366e6120037dd63db5d428d95232643bc145a03@31.211.71.208:26656"\}\}}
